@@ -1,4 +1,10 @@
 # Java 개인 과제
+## 필수 참고!!
+
+> 해당 git hub 은 참고용으로 보시고 주 내용은 꼭 노션 페이지에서 확인해주세요!!!
+>
+> [Java 개인 과제 링크](https://www.notion.so/teamsparta/Java-8d2a0773f5f5425e9464d923cf898b71?pvs=4)
+
 
 ## 과제 소개
 <aside>
