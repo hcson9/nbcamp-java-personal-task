@@ -625,7 +625,7 @@
 <details>
   <summary><b>과제 가이드 영상</b></summary>
 
-  [자바 개인과제 가이드 영상](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/758fd89f-ec76-4dd2-9117-2eecaee56306/%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1_%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6_%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3_%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mp4)
+  [자바 개인과제 가이드 영상](https://www.notion.so/teamsparta/Java-8d2a0773f5f5425e9464d923cf898b71?pvs=4#363ebd7df07c4e859a16a6afed5587d7)
   
 </details>
 <aside>
