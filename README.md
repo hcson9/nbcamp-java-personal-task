@@ -19,8 +19,10 @@
 </aside>
 
 <details>
-  <summary><b>Level 1</b></summary>
-  <aside>
+  <summary><b>Level 1</b></summary><aside>
+
+![image0.png](image/image0.png)
+
 📢 계산기 Level 1
 
 - Java 문법 종합반에서 배운 개념을 활용하여 계산기 프로그램을 만들겠습니다.
@@ -182,6 +184,9 @@
 <details>
   <summary><b>Level 2</b></summary>
   <aside>
+
+![image1.png](image/image1.png)
+
 📢 계산기 Level 2
 
 - 계산기 프로그램을 만들면서 아래 개념들을 이해하고 있는지 확인 해봅시다.
@@ -556,7 +561,8 @@
 
 <details>
   <summary><b>Level 3</b></summary>
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/83c75a39-3aba-4ba4-a792-7aefe4b07895/3f6271e2-9892-4fcd-aca9-a2403c681556/Untitled.png)
+
+  ![image2.png](image/image2.png)
 
 <aside>
 📢 계산기 Level 3
